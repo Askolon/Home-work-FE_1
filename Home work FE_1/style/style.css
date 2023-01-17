@@ -1,0 +1,14 @@
+h1{
+    text-decoration: underline;
+    text-align: center;
+    color: #34495e
+
+}
+
+a{
+    text-decoration: none;
+    border: 2px solid #34495e;
+    padding: 5px;
+    color: #34495e;
+    cursor: pointer;
+}
